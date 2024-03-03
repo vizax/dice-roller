@@ -1,4 +1,2 @@
+main.spec
 dice roller.code-workspace
-dice .venv
-dice build
-dice dist
